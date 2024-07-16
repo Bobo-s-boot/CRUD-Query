@@ -1,0 +1,9 @@
+{
+  "info": "Info about product",
+  "name": "Name",
+  "price": "Price",
+  "description": "Description",
+  "create-product": "Create Product",
+  "edit-product": "Edit Product",
+  "save-product": "Save Product"
+}
